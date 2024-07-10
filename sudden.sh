@@ -1,9 +1,14 @@
 #!/bin/bash
 
-FILE=~/tmp/_sudden
+FILE=~/tmp/_SUDDEN
 
 while true
 do
-	echo "check"
+	if [ -f "$FILE" ]; then
+		echo "sudden"
+	else
+		echo "error"
+	fi
+
 	sleep 3
 done
