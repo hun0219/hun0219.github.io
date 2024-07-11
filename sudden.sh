@@ -16,7 +16,7 @@ do
                 figlet KIA
 		DATE=$(date +"%Y%m%d %H:%M:%S")
         #       echo "error"
-                echo $DATE
+                echo $DATE, SUDDEN!!
         fi
         sleep 3
 done
