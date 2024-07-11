@@ -13,7 +13,7 @@ do
 	#	sleep 3
 	else
 		figlet KIA
-		echo "error"
+	#	echo "error"
 		date
 	fi
 	sleep 3
