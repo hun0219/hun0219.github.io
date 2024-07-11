@@ -1,6 +1,6 @@
 #!/bin/bash
 
-figlet KIA
+#figlet KIA
 
 FILE=~/tmp/_SUDDEN
 #MODEL=KIA
@@ -16,8 +16,8 @@ do
 	#	sleep 3
 	else
 		figlet KIA
-	#	echo "error"
-		echo "$DATE,SUDDEN!!!"
+		echo "error"
+		echo "$DATE"
 	fi
 	sleep 3
 done
