@@ -7,3 +7,4 @@
 - 1.5.0 : HYUNDAI
 - 1.6.0 : ROLLS
 - 1.7.0 : MCLAREN
+- 3.0.1 : fix update date
