@@ -4,6 +4,7 @@ figlet KIA
 
 FILE=~/tmp/_SUDDEN
 #MODEL=KIA
+
 DATE=$(date +"%Y%m%d %H:%M:%S")
 
 while true
@@ -26,3 +27,4 @@ done
 #        echo "check $MODEL"
 #        sleep 3
 #done
+
