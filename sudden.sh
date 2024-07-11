@@ -5,7 +5,7 @@ figlet KIA
 FILE=~/tmp/_SUDDEN
 #MODEL=KIA
 
-DATE=$(date +"%Y%m%d %H:%M:%S")
+#DATE=$(date +"%Y%m%d %H:%M:%S")
 
 while true
 do
@@ -16,6 +16,7 @@ do
 	else
 		figlet KIA
 	#	echo "error"
+	DATE=$(date +"%Y%m%d %H:%M:%S")
 		echo "$DATE,SUDDEN!!!"
 	fi
 	sleep 3
