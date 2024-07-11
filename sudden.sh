@@ -1,5 +1,7 @@
 #!/bin/bash
 
+figlet KIA
+
 FILE=~/tmp/_SUDDEN
 #MODEL=KIA
 
@@ -10,6 +12,7 @@ do
 		echo "sudden!!!"
 	#	sleep 3
 	else
+		figlet KIA
 		echo "error"
 		date
 	fi
