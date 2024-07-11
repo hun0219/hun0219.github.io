@@ -15,7 +15,7 @@ do
 	else
 		figlet KIA
 	#	echo "error"
-		echo $DATE
+		echo "$DATE,SUDDEN!!!"
 	fi
 	sleep 3
 done
