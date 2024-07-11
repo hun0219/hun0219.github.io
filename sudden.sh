@@ -13,7 +13,7 @@ do
 		echo "error"
 		date
 	fi
-	sleep 1
+	sleep 3
 done
 
 
