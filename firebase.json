@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "hunshop",
     "public": "docs",
     "ignore": [
       "firebase.json",
